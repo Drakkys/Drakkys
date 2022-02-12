@@ -6,7 +6,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/drakkyii)
 
 ![Drakkys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakkys&show_icons=true&theme=merko)
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;">
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;">
 
 
 ## Tecnologias que eu uso no meu dia!
