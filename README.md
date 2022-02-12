@@ -17,7 +17,7 @@
 ![Drakkys's GitHub stats](https://github-readme-stats.vercel.app/api?username=Drakkys&show_icons=true&theme=merko)
 <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&layout=compact&langs_count=7&theme=dracula" style="max-width: 100%;">
 
-## Tecnologias que eu uso no meu dia!
+## ⚙️ Skills
 
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
