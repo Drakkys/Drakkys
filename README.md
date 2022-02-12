@@ -1,5 +1,16 @@
 ## Olá, eu sou o Douglas
 
+<div>
+<li>📄 Tecnólogo Sistemas para Internet</li>
+
+<li>💻 Desenvolvedor Front-end</li>
+
+<li>🗺️ Betim - MG</li>
+    
+</div>
+
+## 📃 Stats
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-silva-9818aa227/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Drakkys)
 
