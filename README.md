@@ -15,7 +15,7 @@
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Drakkys)
 
 <div style="display: inline_block">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Drakkys&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true" style="max-width: 100%;"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&layout=compact&langs_count=7&theme=tokyonight">
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Drakkys&amp;show_icons=true&amp;theme=tokyonight&amp;include_all_commits=true" style="max-width: 100%;"><img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 ## ⚙️ Skills
