@@ -1,7 +1,7 @@
 ## Olá, eu sou o Douglas
 
 <div>
-<li>📄 Tecnólogo Sistemas para Internet</li>
+<li>📄 Sistemas para Internet</li>
 
 <li>💻 Desenvolvedor Front-end</li>
 
