@@ -3,7 +3,7 @@
 <div>
 <li>📄 Sistemas para Internet</li>
 
-<li>💻 Desenvolvedor Front-end</li>
+<li>💻 Desenvolvedor</li>
 
 <li>🗺️ Betim - MG</li>
     
