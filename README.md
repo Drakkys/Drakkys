@@ -4,8 +4,6 @@
 <li>📄 Sistemas para Internet</li>
 
 <li>💻 Desenvolvedor</li>
-
-<li>🗺️ Betim - MG</li>
     
 </div>
 
