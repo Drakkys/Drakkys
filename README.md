@@ -18,6 +18,8 @@
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&layout=compact&langs_count=7&theme=tokyonight&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&langs_count=8&theme=tokyonight&layout=compact)
+
 
 ## ⚙️ Skills
 
