@@ -15,8 +15,8 @@
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Drakkys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&langs_count=8&theme=tokyonight&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&langs_count=8&theme=tokyonight&layout=compact)
 
 ## ⚙️ Skills
 
