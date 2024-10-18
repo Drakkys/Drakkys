@@ -12,10 +12,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-silva-9818aa227/)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Drakkys)
 
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Drakkys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Drakkys&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Drakkys&langs_count=8&theme=tokyonight&layout=compact)
 
 ## ⚙️ Skills
