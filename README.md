@@ -31,6 +31,5 @@
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
     <img align="center" alt="nodejs" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
-    <img align="center" alt="nodejs" src=""/>
 </div>
 
